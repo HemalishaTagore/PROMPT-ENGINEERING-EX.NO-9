@@ -37,12 +37,3 @@ Save different versions of the videos and compare the results to understand how 
 
 # Result: The Prompt of the above task executed successfully
 
-
-
-
-
-
-
-
-
-# Result:
